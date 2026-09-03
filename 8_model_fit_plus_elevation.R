@@ -5,7 +5,7 @@ spde <- inla.spde2.pcmatern(
   mesh = mesh,
   prior.range = c(1.0, 0.01),  
   prior.sigma = c(20, 0.01),
-  constr = TRUE  # <--- Correct place to enable sum-to-zero constraint for SPDE!
+  constr = TRUE  # <--- enable sum-to-zero constraint for SPDE!
 )
 
 # Step 2: Re-create Spatial Index and Projection Matrix
