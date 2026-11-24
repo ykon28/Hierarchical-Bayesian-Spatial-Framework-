@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Hierarchical-Bayesian-Spatial-Framework-"
+message: "If you use this software or spatial modeling pipeline in your research, please cite both the repository and the associated peer-reviewed paper below."
+type: software
+authors:
+  - family-names: "Konstantinidis"
+    given-names: "Ioannis"
+repository-code: "https://github.com/ykon28/Hierarchical-Bayesian-Spatial-Framework-"
+url: "https://doi.org/10.3390/engproc2026167019"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-01"
+keywords:
+  - spatial-statistics
+  - bayesian-hierarchical-modeling
+  - r-inla
+  - spde
+  - fmesher
+  - air-quality-imputation
+  - environmental-monitoring
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Konstantinidis"
+      given-names: "Ioannis"
+  title: "Hierarchical Bayesian Spatial Framework for Air Quality Imputation in Sparse Sensor Networks"
+  journal: "Engineering Proceedings"
+  publisher:
+    name: "MDPI"
+  year: 2026
+  volume: 167
+  issue: 1
+  start: 19
+  doi: "10.3390/engproc2026167019"
+  url: "https://www.mdpi.com/2673-4591/167/1/19"
